@@ -10,4 +10,4 @@ For now, this page is assumed to be a static description of your courses. You ca
 
 Organize your courses by years, topics, or universities, however you like!
 
-[note1](../README.md)
+[Note1](../_posts/2015-03-15-formatting-and-links.md)
